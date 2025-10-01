@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+ckpts/
+imagenetdata/
+
 # C extensions
 *.so
 
